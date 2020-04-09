@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "Yihui Xie"
+title: "Standar Pelayanan Minimal"
+author: "Registrasi Mahasiswa Universitas Sultan Ageng Tirtayasa Tahun 2018"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -10,25 +10,27 @@ link-citations: yes
 description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
 ---
 
-# Prerequisites
+# KATA PENGANTAR {-}
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
+Penyempurnaan **Buku Standar Pelayanan Minimal** (**SPM**) Pelaksanaan Registrasi Mahasiswa tahun 2020 sesuai dengan perkembangan Ilmu dan Teknologi/IT dengan menggunakan e-administrasi (layanan administrasi akademik *online*) Univeritas Sultan Ageng Tirtayasa, sebagai acuan dalam memberikan pelayanan dan informasi di Biro Akademik, Kemahasiswaan, dan Perencanaan (BAKP) terhadap mahasiswa Universitas Sultan Ageng Tirtayasa serta mempermudah mahasiswa dalam mengajukan permohonan registrasi (efesiensi waktu) sesuai kebutuhan mahasiswa.
+Standar Pelayanan Minimal (SPM) Registrasi Mahasiswa ini merupakan penjabaran dari Pedoman Akademik, Program Kerja Universitas Sultan Ageng Tirtayasa tahun 2020, dan Program Kerja Biro Akademik, Kemahasiswaan, dan Perencanaan (BAKP) tahun 2020.
 
-The **bookdown** package can be installed from CRAN or Github:
+**Standar Pelayanan Minimal** (**SPM**) Registrasi Mahasiswan ini dasar pemikiran pelaksanaan administrasi *online* (e-administrasi) agar dapat terpantau dan memiliki keseragaman kegiatan administrasi baik dalam proses maupun prosedur serta kebijakannya. Prinsip implementasi prosedur e-administrasi adalah : 
 
-```{r eval=FALSE}
-install.packages("bookdown")
-# or the development version
-# devtools::install_github("rstudio/bookdown")
-```
+1. Memberikan pelayanan prima kepada mahasiswa, 
+2. Memberikan kepuasan terhadap layanan akademik terhadap mahasiswa, 
+3. Melakukan efesiensi penggunaan kertas dalam layanan akademik, 
+4. Penyergaman prosedur dan kebijakan dalam pelaksanaan layanan akademik, 
+5. Mendokumentasikan secara akurat proses layanan akademik mahasiswa. Pelaksanaan kegiatan registrasi mahasiswa di Universitas Sultan Ageng Tirtayasa sesuai dengan permasalahan pendidikan yang berkembang, maka Standar Pelayanan Minimal (SPM) Registrasi mahasiswa inipun terus dilakukan perbaikan dan penyempurnaan setiap waktu, sehingga sesuai dan selaras dengan kebutuhan dan dinamika perkembangan akademik.
 
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
+Kami berharap **Standar Pelayanan Minimal** (**SPM**) Registrasi Mahasiswa ini dapat berfungsi sebagai acuan dalam melaksanakan kegiatan registrasi mahasiswa baik pada tingkat Universitas, Fakultas, Jurusan atau Program Studi, Pimpinan, Mahasiswa, Dosen, dan Pegawai di lingkungan Universitas Sultan Ageng Tirtayasa.
 
-To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
 
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+Serang, April 2020
+Kepala BAKP Untirta
+
+
+Drs. Mochamad Ganiadi, M.M.
+NIP. 19620422 199203 1 001
+
+
