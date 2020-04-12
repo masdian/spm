@@ -1,10 +1,48 @@
 # REGISTRASI MAHASISWA BARU
 
+Registrasi merupakan prosedur awal bagi mahasiswa baru Universitas Sultan Ageng Tirtayasa. Mahasiswa Universitas Sultan Ageng Tirtayasa adalah mahasiswa yang telah menyelesaikan ketentuan dan prosedur yang berlaku. Pada prosesnya prosedur ini melibatkan 6 (enam) entitas, yaitu:
+
+1. Mahasiswa.
+2. Subbagian Registrasi & Statistik/BAKP. 
+3. Subbagian Kemahasiswaan/BAKP.
+4. Subbagian PNBP/BUKK.
+5. Pusat Data dan Informasi (PUSDAINFO).
+6. Jurusan/Program Studi/Fakultas/Pascasarjana.
+
 ## Ketentuan Mahasiswa Baru
+
+Bagi calon mahasiswa baru sudah _**lulus tes seleksi**_ / ujian masuk perguruan tinggi di Universitas Sultan Ageng Tirtayasa melalui beberapa jalur masuk : Seleksi Nasional Masuk Perguruan Tinggi Negeri (SNMPTN) dengan Program Sarjana (S1), Seleksi Bersama Masuk Perguruan Tinggi Negeri (SBMPTN) dengan Program Sarjana (S1), Seleksi Masuk Mandiri Perguruan Tinggi Negeri (SMMPTN) dengan Program Sarjana (S1), Ujian Masuk Mandiri (UMM) dengan Program Diploma (D3) dan Seleksi Penerimaan Mahasiswa Baru (SPMB) dengan Program Magister (S2/S3) diselenggarakan oleh Pascasarjana  Universitas Sultan Ageng Tirtayasa.
+
+Setelah lulus seleksi bukti lulusnya dituangkan dalam dokumen Surat Keputusan Rektor Universitas Sultan Ageng Tirtayasa  tentang  hasil seleksi penerimaan mahasiswa baru dari beberapa jalur masuk yang diterbitkan pada tahun akademik oleh Universitas Sultan Ageng Tirtayasa.
+
+Selanjutnya calon mahasiswa melengkapi persyaratan administrasi akademik dan administrasi keuangan / sudah membayar Uang Kuliah Tunggal (UKT)/ Sumbangan Pengembangan Pendidikan (SPP) bagi mahasiswa baru Program Sarjana (S1) dan Program Diploma (D3) dan calon mahasiswa melengkapi persyaratan administrasi akademik dan administrasi keuangan serta sudah membayar Sumbangan Pengembangan Pendidikan (SPP) bagi mahasiswa baru Program Magister (S2/S3).
+
+Bagi mahasiswa baru baik Program Sarjana (S1) dan Program Diploma (D3) melakukan registrasi akademik dengan melengkapi persyaratan dan ketentuan yang telah ditetapkan.
 
 ## Waktu Registrasi
 
+Pelaksanaan registrasi mahasiswa baru mengacu pada ketentuan yang telah di tuangkan dalam kalender akademik pada semester gasal (Program Sarjana (S1) dan Diploma (D3), semester gasal dan genap (Program Magister (S2)) sehingga mahasiswa sudah punya dasar dan gambaran yang pasti akan waktu pelaksanaan kegiatan Registrasi Mahasiswa Baru tersebut dan proses perkuliahan dapat berjalan dengan baik.
+
 ## Prosedur Persyaratan Mahasiswa Baru
+
+### Mahasiswa Baru
+
+### Pengisian/Pengambilan Persyaratan Berkas Registrasi
+
+### Data Pendukung Lampiran Berkas Registrasi, Secara: on-line dengan Mengupload
+
+### Verifikasi data registrasi oleh Sub Bagian Registrasi dan Statistik terhadap data yang telah di-upload oleh calon mahasiswa baru
+
+### Pengisian/Pengambilan Persyaratan Berkas Registrasi Program Magister (S2)
+
+Calon Mahasiswa Baru pengambilan persyaratan di Subbagian Akademik Pascasarjana, Universitas Sultan Ageng Tirtayasa. Persyaratan yang harus dilengkapi calon mahasiswa baru:
+
+a. Kartu Tanda Peserta Ujian SPMB 
+b. Pengisian Biodata Mahasiswa.
+c. Ijazah S1, Akta IV (bagi yang memiliki AKTA IV) dan Transkrip Akademik di legalisir/Surat Keterangan Lulus asli bagi yang belum keluar Ijazah, Akta IV dan Transkrip Akademik.
+d. Slip Pembayaran SPP.  
+e. Pas Photo terbaru berwarna (ukuran: 3x4): 2 Lembar.
+
 
 ## Biro Akademik, Kemahasiswaan, dan Perencanaan (BAKP)
 
