@@ -27,11 +27,44 @@ Pelaksanaan registrasi mahasiswa baru mengacu pada ketentuan yang telah di tuang
 
 ### Mahasiswa Baru
 
+Calon mahasiswa melihat informasi ke [http://admisi.untirta.ac.id](http://admisi.untirta.ac.id),
+
+a. Surat Keputusan Rektor Tentang Hasil Seleksi Mahasiswa Baru sesuai dengan  jalur masuk  SNMPTN, SBMPTN, SMMPTN, UMM.
+b. Pengumuman Registrasi mahasiswa baru sesuai dengan jalur masuk SNMPTN, SBMPTN, SMMPTN, UMM.
+c. Alur Registrasi Mahasiswa Baru sesuai dengan jalur masuk SNMPTN, SBMPTN, SMMPTN, UMM.
+
 ### Pengisian/Pengambilan Persyaratan Berkas Registrasi
 
-### Data Pendukung Lampiran Berkas Registrasi, Secara: on-line dengan Mengupload
+Calon Mahasiswa Baru *login* ke http://admisi.untirta.ac.id, dengan *username*: Nomor Peserta SNMPTN, SBMPTN, SMMPTN, UMM serta *password*: Tanggal Lahir.
 
-### Verifikasi data registrasi oleh Sub Bagian Registrasi dan Statistik terhadap data yang telah di-upload oleh calon mahasiswa baru
+a. Pengisian Biodata Mahasiswa dan mengunggah Foto terbaru (latar belakang merah dan memakai kemeja putih).
+b. Mengunduh Pakta Integritas Uang Kuliah Tunggal (UKT)/Biaya Pendidikan
+c. Mengunduh dan Surat Pernyataan Mentaati Peraturan Untirta
+
+### Data Pendukung Lampiran Berkas Registrasi
+
+Calon Mahasiswa Baru setelah melengkapi persyaratan, *login* kembali ke http://admisi.untirta.ac.id dan kemudian **WAJIB** mengunggah seluruh persyaratan tanpa terkecuali antara lain:
+
+a. Hasil pindah (*scan*) Kartu Peserta SNMPTN, SBMPTN, SMMPTN, UMM.
+b. Hasil pindai Ijazah atau SKHUN atau Surat Keterangan Lulus (SKL) bagi yang belum keluar ijasahnya. 
+c. Hasil pindai Tes Kesehatan
+d. Hasil pindai Tes Narkoba
+e. Hasil pindai Tes Buta Warna bagi jurusan tertentu:
+
+    1. **FKIP** : Penddikan Biologi, Pendidikan Kimia, Pendidikan Fisika, Pendidikan IPA, Pendidikan Teknik Elektro, Pendidikan Teknik Mesin. PAUD.
+    2. **Fakultas Teknik** : Teknik Kimia, Teknik Metalurgi, Teknik Mesin, Teknik Elektro.
+    3. **Fakultas Pertanian** : Agribisnis, Agroekoteknologi, Perikanan, Teknologi Pangan.
+    4. **Fakultas Kedokteran** : Keperawatan (D3).
+
+f. Hasil pindai Akte Kelahiran.
+g. Hasil pindai Tagihan Rekening Listrik Bulan terbaru dan tahun  berjalan
+h. Hasil pindai Pajak Bumi dan Bagunan (PBB) terbaru.
+i. Hasil pindai Kartu Keluarga (KK).
+j. Hasil pindai Slip Pengasilan orang tua bagi calon mahasiswa yang orang tuanya bekerja sebagai PNS/Swasta, yang ditanda-tangani oleh pejabat/pimpinan instansi tempat kerja, atau Hasil pindai Surat Keterangan Penghasilan yang ditandatangani oleh kelurahan atau kecamatan, jika orang tua bekerja sebagai Wiraswasta / Pedagang / Buruh / Petani / Pensiunan. (Jika kedua orang tua bekerja).
+
+### Verifikasi data registrasi oleh Subbagian Registrasi dan Statistik terhadap data yang telah diunggah oleh calon mahasiswa baru
+
+Tim dari Subbagian Registrasi dan statitik akan memeriksa data yang telah diunggah. Apabila data yang diunggah tidak lengkap maka tim akan menghubungi calon mahasiwa baru tersebut. Data ini diperlukan untuk menentukan dasar penentuan besaran UKT calon mahasiswa baru
 
 ### Pengisian/Pengambilan Persyaratan Berkas Registrasi Program Magister (S2)
 
@@ -43,8 +76,39 @@ c. Ijazah S1, Akta IV (bagi yang memiliki AKTA IV) dan Transkrip Akademik di leg
 d. Slip Pembayaran SPP.  
 e. Pas Photo terbaru berwarna (ukuran: 3x4): 2 Lembar.
 
-
 ## Biro Akademik, Kemahasiswaan, dan Perencanaan (BAKP)
+
+### Subbagian Registrasi dan Statistik memverifikasi Berkas Registrasi Mahasiswa Baru
+
+#### Program Sarjana (S1) dan Diploma (D3)
+
+Bagi calon mahasiswa setelah melakukan pengisian / pengambilan persyaratan registrasi secara *online* (mengunduh dan mengunggah), persyaratan poin 3 nomor 3.1. – 3.6 dan 3.12 – 3.13 dibawa untuk dicek kebenarannya (membawa persyaratan asli) Ke Subbagian Registrasi dan Statistik, Biro Akademik, Kemahasiswaan dan Perencanaan (BAKP).
+
+
+#### Program Magister (S2)
+
+
+
+### Subbagian Kemahasiswaan memverifikasi Berkas Bidikmisi Mahasiswa Baru Program Sarjana (S1)
+
+Bagi Calon Mahasiswa Bidikmisi di harap melakukan registrasi Bidikmisi dengan melengkapi persyaratan sebagai mahasiswa baru Bidikmisi dengan menyerahkan persyaratan Bidikmisi untuk di verifikasi berkas Bidikmisi ke Subbagian Kemahasiswaan, Biro Akademik, Kemahasiswaan, dan Perencanaan (BAKP), diantaranya:
+
+a. Kopi Kartu Tanda Penduduk (KTP).
+b. Kopi Kartu Keluarga (KK).
+c. Kopi Kartu Indonesia Pintar.
+d. Surat Keterangan Tidak Mampu (SKTM) dari kelurahan setempat.
+e. Kopi Rekening Listrik (Bulan Terakhir).
+f. Slip Penghasilan Orang Tua/Slip Gaji
+g. Pas Photo Ukuran 3x4 Berwarna = 2 Lembar.
+h. Photo Rumah Tinggal Ukuran Poscard Berwarna, dengan ketentuan sebagai berikut:
+
+    - Photo Rumah Tapak Depan.
+    -	Photo Rumah Tampak Belakang.
+    -	Photo Ruang Dapur    
+
+i. Mengisi Form Surat Pernyataan Bermaterai Beasiswa Bidikmisi (Form bisa dapat di Subbagian Kemahasiswaan)
+j. Esai yang ditulis tangan tentang kondisi perekonomian, rutinitas belajar dan kondisi keluarga, dalam kertas folio bergaris maksimal 2 lembar dan ditandatangani.
+
 
 ## Biro Umum, Keuangan, dan Kepegawaian
 
