@@ -1,6 +1,6 @@
 --- 
 title: "Standar Pelayanan Minimal"
-author: "Registrasi Mahasiswa Universitas Sultan Ageng Tirtayasa Tahun 2018"
+author: "Registrasi Mahasiswa Universitas Sultan Ageng Tirtayasa Tahun 2020"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
